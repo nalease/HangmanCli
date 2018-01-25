@@ -1,0 +1,22 @@
+{
+  "name": "hangmancli",
+  "version": "1.0.0",
+  "description": "Homework assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalease/HangmanCli.git"
+  },
+  "author": "Nalease Marrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalease/HangmanCli/issues"
+  },
+  "homepage": "https://github.com/nalease/HangmanCli#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
